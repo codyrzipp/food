@@ -1,0 +1,12 @@
+{
+  "name": "czippgr1/IT328/food",
+  "authors": [
+    {
+      "name": "Cody Zipp",
+      "email": "Czipp2@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
